@@ -31,6 +31,7 @@ me.say_hi()
 **Cloud Services:**
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![AWS CloudFormation](https://img.shields.io/badge/CloudFormation-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
 ![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
 ![AWS Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
